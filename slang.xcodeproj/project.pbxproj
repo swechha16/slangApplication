@@ -12,6 +12,20 @@
 		BFD2360B21135B760028A221 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFD2360921135B760028A221 /* Main.storyboard */; };
 		BFD2360D21135B7A0028A221 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFD2360C21135B7A0028A221 /* Assets.xcassets */; };
 		BFD2361021135B7A0028A221 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFD2360E21135B7A0028A221 /* LaunchScreen.storyboard */; };
+		BFD2361B21135CD50028A221 /* Tea.m4a in Resources */ = {isa = PBXBuildFile; fileRef = BFD2361721135CD30028A221 /* Tea.m4a */; };
+		BFD2361C21135CD50028A221 /* Read.m4a in Resources */ = {isa = PBXBuildFile; fileRef = BFD2361821135CD40028A221 /* Read.m4a */; };
+		BFD2361D21135CD50028A221 /* Slay.m4a in Resources */ = {isa = PBXBuildFile; fileRef = BFD2361921135CD50028A221 /* Slay.m4a */; };
+		BFD2361E21135CD50028A221 /* Wig.m4a in Resources */ = {isa = PBXBuildFile; fileRef = BFD2361A21135CD50028A221 /* Wig.m4a */; };
+		BFD2362021135DA80028A221 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD2361F21135DA80028A221 /* MainViewController.swift */; };
+		BFD2362221135DB30028A221 /* SlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD2362121135DB30028A221 /* SlayViewController.swift */; };
+		BFD23624211360840028A221 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD23623211360840028A221 /* File.swift */; };
+		BFD23626211360AB0028A221 /* giphy.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFD23625211360AA0028A221 /* giphy.gif */; };
+		BFD23628211364D70028A221 /* ReadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD23627211364D70028A221 /* ReadViewController.swift */; };
+		BFD2362A211366FC0028A221 /* readgif.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFD23629211366FB0028A221 /* readgif.gif */; };
+		BFD2362C211367CC0028A221 /* TeaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD2362B211367CC0028A221 /* TeaViewController.swift */; };
+		BFD2362E211368E00028A221 /* spill.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFD2362D211368DF0028A221 /* spill.gif */; };
+		BFD2363021136DA00028A221 /* WigViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFD2362F21136DA00028A221 /* WigViewController.swift */; };
+		BFD236322113701A0028A221 /* wigok.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFD236312113701A0028A221 /* wigok.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		BFD2360C21135B7A0028A221 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFD2360F21135B7A0028A221 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFD2361121135B7A0028A221 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFD2361721135CD30028A221 /* Tea.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Tea.m4a; sourceTree = "<group>"; };
+		BFD2361821135CD40028A221 /* Read.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Read.m4a; sourceTree = "<group>"; };
+		BFD2361921135CD50028A221 /* Slay.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Slay.m4a; sourceTree = "<group>"; };
+		BFD2361A21135CD50028A221 /* Wig.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Wig.m4a; sourceTree = "<group>"; };
+		BFD2361F21135DA80028A221 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		BFD2362121135DB30028A221 /* SlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlayViewController.swift; sourceTree = "<group>"; };
+		BFD23623211360840028A221 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		BFD23625211360AA0028A221 /* giphy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = giphy.gif; sourceTree = "<group>"; };
+		BFD23627211364D70028A221 /* ReadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadViewController.swift; sourceTree = "<group>"; };
+		BFD23629211366FB0028A221 /* readgif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = readgif.gif; sourceTree = "<group>"; };
+		BFD2362B211367CC0028A221 /* TeaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeaViewController.swift; sourceTree = "<group>"; };
+		BFD2362D211368DF0028A221 /* spill.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = spill.gif; sourceTree = "<group>"; };
+		BFD2362F21136DA00028A221 /* WigViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WigViewController.swift; sourceTree = "<group>"; };
+		BFD236312113701A0028A221 /* wigok.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wigok.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +82,26 @@
 		BFD2360421135B760028A221 /* slang */ = {
 			isa = PBXGroup;
 			children = (
+				BFD2361821135CD40028A221 /* Read.m4a */,
+				BFD23625211360AA0028A221 /* giphy.gif */,
+				BFD2362D211368DF0028A221 /* spill.gif */,
+				BFD23629211366FB0028A221 /* readgif.gif */,
+				BFD236312113701A0028A221 /* wigok.gif */,
+				BFD2361921135CD50028A221 /* Slay.m4a */,
+				BFD2361721135CD30028A221 /* Tea.m4a */,
+				BFD2361A21135CD50028A221 /* Wig.m4a */,
 				BFD2360521135B760028A221 /* AppDelegate.swift */,
 				BFD2360721135B760028A221 /* ViewController.swift */,
+				BFD2361F21135DA80028A221 /* MainViewController.swift */,
+				BFD2362121135DB30028A221 /* SlayViewController.swift */,
 				BFD2360921135B760028A221 /* Main.storyboard */,
+				BFD2362F21136DA00028A221 /* WigViewController.swift */,
+				BFD2362B211367CC0028A221 /* TeaViewController.swift */,
 				BFD2360C21135B7A0028A221 /* Assets.xcassets */,
 				BFD2360E21135B7A0028A221 /* LaunchScreen.storyboard */,
 				BFD2361121135B7A0028A221 /* Info.plist */,
+				BFD23623211360840028A221 /* File.swift */,
+				BFD23627211364D70028A221 /* ReadViewController.swift */,
 			);
 			path = slang;
 			sourceTree = "<group>";
@@ -122,9 +164,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFD236322113701A0028A221 /* wigok.gif in Resources */,
 				BFD2361021135B7A0028A221 /* LaunchScreen.storyboard in Resources */,
+				BFD2361B21135CD50028A221 /* Tea.m4a in Resources */,
 				BFD2360D21135B7A0028A221 /* Assets.xcassets in Resources */,
 				BFD2360B21135B760028A221 /* Main.storyboard in Resources */,
+				BFD2362A211366FC0028A221 /* readgif.gif in Resources */,
+				BFD2361C21135CD50028A221 /* Read.m4a in Resources */,
+				BFD2361E21135CD50028A221 /* Wig.m4a in Resources */,
+				BFD2362E211368E00028A221 /* spill.gif in Resources */,
+				BFD23626211360AB0028A221 /* giphy.gif in Resources */,
+				BFD2361D21135CD50028A221 /* Slay.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +185,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFD2363021136DA00028A221 /* WigViewController.swift in Sources */,
+				BFD23624211360840028A221 /* File.swift in Sources */,
+				BFD2362021135DA80028A221 /* MainViewController.swift in Sources */,
 				BFD2360821135B760028A221 /* ViewController.swift in Sources */,
 				BFD2360621135B760028A221 /* AppDelegate.swift in Sources */,
+				BFD2362C211367CC0028A221 /* TeaViewController.swift in Sources */,
+				BFD23628211364D70028A221 /* ReadViewController.swift in Sources */,
+				BFD2362221135DB30028A221 /* SlayViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
